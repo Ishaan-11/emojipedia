@@ -19,5 +19,14 @@ const emojipedia = [
     name: "Rolling On The Floor, Laughing",
     meaning:
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+  },
+  {
+    id: 4,
+    emoji: "😊",
+    name: "Smiling Face With Smiling Eyes",
+    meaning:
+      "Is grinning shyly and embarrassed. The red cheeks are an expression of joy. Represents happiness, contentment, peace of mind and gratitude."
   }
 ];
+
+export default emojipedia;
